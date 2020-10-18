@@ -3,6 +3,12 @@
 /sw.js   # Gatsby's default service worker file path
   Cache-Control: no-cache
 
+/*.html
+  Cache-Control: no-cache
+
+/public/page-data/*.json
+  Cache-Control: no-cache
+
 /rss
   content-type: application/rss+xml; charset=UTF-8
 
