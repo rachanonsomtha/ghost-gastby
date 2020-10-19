@@ -5,6 +5,6 @@
   },
   "production": {
     "apiUrl": "https://rachanon-ghost.herokuapp.com",
-    "contentApiKey": "44f42bb851617b37713eb87377"
+    "contentApiKey": "36dae75693c64bead059218dc4"
   }
 }
