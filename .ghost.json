@@ -1,7 +1,7 @@
 {
   "development": {
-    "apiUrl": "http://localhost:2368",
-    "contentApiKey": "b105c44e886cd213ba25ea1d4a"
+    "apiUrl": "https://rachanon-port.herokuapp.com",
+    "contentApiKey": "36dae75693c64bead059218dc4"
   },
   "production": {
     "apiUrl": "https://rachanon-port.herokuapp.com",
