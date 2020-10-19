@@ -1,1 +1,1 @@
-web: gatsby start
+web: gatsby serve
