@@ -4,7 +4,7 @@
     "contentApiKey": "b105c44e886cd213ba25ea1d4a"
   },
   "production": {
-    "apiUrl": "https://rachanon-ghost.herokuapp.com",
+    "apiUrl": "https://rachanon-port.herokuapp.com",
     "contentApiKey": "36dae75693c64bead059218dc4"
   }
 }
